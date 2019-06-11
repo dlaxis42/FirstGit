@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shin Crypto Pirates LTS",
+"dataUrl": "BetaTestWebGL.data.unityweb",
+"asmCodeUrl": "BetaTestWebGL.asm.code.unityweb",
+"asmMemoryUrl": "BetaTestWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "BetaTestWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
